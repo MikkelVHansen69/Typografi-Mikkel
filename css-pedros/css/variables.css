@@ -1,0 +1,9 @@
+:root{
+    --color-dark: black;
+
+    --font-base: 'Cormorant', serif;
+    --font-dancing: 'Dancing Script', cursive;
+
+    --border-thin: thin solid var(--color-dark);
+
+}

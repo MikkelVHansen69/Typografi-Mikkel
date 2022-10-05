@@ -1,0 +1,13 @@
+.venue{
+
+    display: grid;
+    text-align: center;
+    align-items: center;
+
+    grid-row: 1/span 2;
+    grid-column: 1/span 3;
+
+    font-family: var(--font-dancing);
+    font-size: 1.5em;
+
+}

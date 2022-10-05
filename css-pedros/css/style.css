@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,700;1,300&family=Dancing+Script&display=swap');
+
+
+@import url(variables.css);
+@import url(base.css);
+@import url(layout.css);
+@import url(venue.css);
+@import url(subject.css);
+@import url(time.css);
+@import url(titel.css);
+@import url(subjects-left.css);
+@import url(cirkel.css);
+@import url(links-navigation.right.css);
+@import url(moduel-start.css);
+@import url(moduel-start-date.css);
+@import url(looking-forward.css);
+@import url(footer.css);

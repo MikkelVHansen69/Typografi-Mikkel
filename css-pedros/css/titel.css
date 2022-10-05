@@ -1,0 +1,16 @@
+.titel{
+
+    display: grid;
+
+    text-align: center;
+    align-items: center;
+
+    grid-column: 1/span 7;
+    grid-row: 3/span 1;
+
+    font-size: 1.7em;
+
+    border-top: var(--border-thin);
+    border-bottom: var(--border-thin);
+
+}

@@ -1,0 +1,23 @@
+.subjects-left {
+
+    text-align: center;
+
+    grid-column: 1/span 1;
+    grid-row: 4/span 2;
+    
+    list-style-type: none;
+
+    border-bottom: var(--border-thin);
+    border-right: var(--border-thin);
+
+}
+
+.subjects-left-uppertext{
+    font-size: 1.4em;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.subjects-left-lowertext{
+    padding-bottom: 20px;
+}

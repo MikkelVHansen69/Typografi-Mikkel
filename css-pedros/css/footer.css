@@ -1,0 +1,29 @@
+footer{
+    display: grid;
+    
+    grid-template-columns: repeat(13, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+
+
+    padding: 0.5em;
+    /* border-right: var(--border-thin);
+    border-left: var(--border-thin); */
+    border-bottom: thick double var(--color-dark);
+    border-top: var(--border-thin);
+
+    margin-bottom: 4px;
+
+}
+
+.footer-left{
+    grid-row: 1;
+    grid-column: 1/span 6;
+    border-right: var(--border-thin);
+    
+}
+
+.footer-right{
+    grid-row: 1;
+    grid-column: 8/span 6 ;
+    border-left: var(--border-thin);
+}
